@@ -6,3 +6,5 @@ This is something I need to learn quickly
 
 
 Edited this in local machine before committed to Central repo
+
+Commit checked in to origin successfully
